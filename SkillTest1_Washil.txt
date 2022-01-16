@@ -1,1 +1,4 @@
-# SkillTest1
+Nama : Muhammad Al Washil Al Majidi
+Umur : 23 tahun
+Stack : backend
+Bahasa Pemrograman : PHP
